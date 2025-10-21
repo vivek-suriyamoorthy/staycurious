@@ -1,3 +1,7 @@
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Built with Curiosity](https://img.shields.io/badge/built_with-curiosity-orange)
+
 ## 🌍 What is StayCurious?
 
 StayCurious is an open-source project that captures how people learn by *asking better questions*. A community-driven collection of **learning question paths** — sequences of prompts that guided people to understand topics deeply through conversation with AI.
